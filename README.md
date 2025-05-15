@@ -1,2 +1,2 @@
 # NEOopt
-Robot options
+Options Activator
